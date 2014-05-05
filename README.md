@@ -1,4 +1,59 @@
-## Introduction
+## Submission for Plotting Assignment 1 for Exploratory Data Analysis
+
+This is my submission for the peer assessed Course Project 1
+
+The files in this repository are 5 R scripts and 4 PNG files: 
+the R scripts create the PNG pictures
+
+* `plot1.R` which plots a histogram of global active power 
+producing `plot1.png`
+
+* `plot2.R` which plots global active power against time 
+producing `plot2.png`
+
+* `plot3.R` which plots three sub-meterings against time 
+producing `plot3.png`
+
+* `plot4.R` which has four plots (2, 3 and voltage and global reactive power 
+against time 
+producing `plot4.png`
+
+* `Course Project 1.R` which combines the four previous scripts so that 
+the large input data only has to be read in once, producing all four PNGs.
+
+The original instructions for the project are below. 
+My PNG files are similar to those near the bottom of this page, but differ 
+in particular because they are 480x480 pixels while the originals are 504x504 
+pixels. Mine look like this:
+
+### My Plot 1
+
+
+![my plot1.png](plot1.png) 
+
+
+### My Plot 2
+
+
+![my plot2.png](plot2.png) 
+
+
+### My Plot 3
+
+
+![my plot3.png](plot3.png) 
+
+
+### My Plot 4
+
+
+![my plot4.png](plot4.png) 
+
+
+
+
+
+## Original Introduction
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
