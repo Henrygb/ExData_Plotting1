@@ -129,6 +129,7 @@ legend("topright",                              # position
                 "Sub_metering_2",               # 2nd variable
                 "Sub_metering_3" ),             # 3rd variable
        lty=c(1,1,1),                            # line types
+       bty = "n",                               # no legend box
        col=c("black", "red", "blue") )          # colours
 
 #Draw a graph: fourth of four
